@@ -73,6 +73,7 @@ header {
 }
 
 header .collapse {
+  display: none;
   color: white;
 }
 
